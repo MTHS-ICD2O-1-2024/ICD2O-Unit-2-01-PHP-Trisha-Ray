@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <meta name="description" content="The XXX program, PHP" />
+  <meta name="description" content="The Hello World!, program, PHP" />
   <meta name="keywords" content="mths, icd2o" />
   <meta name="author" content="Mr. Coxall" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -50,8 +50,6 @@
         echo "Hello World!";
         ?>
       </div>
-      <br />
-      <div class="page-content">Hello, World!</div>
       <br />
       <div class="page-content-answer">
         <a href="./index.php">Return ...</a>
